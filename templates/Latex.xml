@@ -1,0 +1,32 @@
+<templateSet group="Latex">
+  <template name="\c" value="\{$END$\}" description="\{\}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="LATEX" value="true" />
+    </context>
+  </template>
+  <template name="\frac" value="\frac{$PARAM1$}{$PARAM2$} $END$" description="\fraction" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="LATEX" value="true" />
+    </context>
+  </template>
+  <template name="\surc" value="\$PARAM1${$SELECTION$}" description="surround command" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="LATEX" value="true" />
+    </context>
+  </template>
+  <template name="\surenv" value="\begin{$PARAM1$}&#10;    $SELECTION$&#10;\end{$PARAM1$}" description="surround env" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="LATEX" value="true" />
+    </context>
+  </template>
+  <template name="\sur" value="$PARAM1$$SELECTION$$PARAM1$" description="surround with thing" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="LATEX" value="true" />
+    </context>
+  </template>
+</templateSet>
