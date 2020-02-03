@@ -73,6 +73,9 @@
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
+  <action id="Macro.select line">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="Maven.ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
