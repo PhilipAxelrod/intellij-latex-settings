@@ -64,6 +64,7 @@
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoSuperMethod" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
     <keyboard-shortcut first-keystroke="shift ctrl s" />
@@ -90,4 +91,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="TodoViewGroupByShowPackages" />
+  <action id="texify.insert.fontstyle.Underline">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
 </keymap>
