@@ -2,12 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="Model" type="PLAIN_TEXT" />
-      <mapping pattern="Temp" type="PLAIN_TEXT" />
-      <mapping pattern="Sensitivity report" type="PLAIN_TEXT" />
-      <mapping pattern="Solution report" type="PLAIN_TEXT" />
       <mapping pattern="BuildTargetScopeProvider" type="PLAIN_TEXT" />
+      <mapping pattern="Sensitivity report" type="PLAIN_TEXT" />
+      <mapping pattern="Model" type="PLAIN_TEXT" />
+      <mapping pattern="Solution report" type="PLAIN_TEXT" />
       <mapping pattern="rand" type="PLAIN_TEXT" />
+      <mapping pattern="Temp" type="PLAIN_TEXT" />
       <mapping ext="builderservice" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
     </extensionMap>
