@@ -64,6 +64,9 @@
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="GotoSuperMethod" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
