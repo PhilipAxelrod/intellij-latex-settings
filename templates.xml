@@ -3,80 +3,120 @@
     <option name="deletedKeys">
       <list>
         <TemplateKey>
-          <option name="groupName" value="LaTeX" />
-          <option name="key" value="begin" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_if" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Math" />
-          <option name="key" value="frac" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_elif" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="BibTeX" />
-          <option name="key" value="tag" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_select" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="BibTeX" />
-          <option name="key" value="string" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_case" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="BibTeX" />
-          <option name="key" value="preamble" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_for" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="BibTeX" />
-          <option name="key" value="article" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_while" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="BibTeX" />
-          <option name="key" value="book" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_until" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="BibTeX" />
-          <option name="key" value="booklet" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_function" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="BibTeX" />
-          <option name="key" value="conference" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string equal" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="BibTeX" />
-          <option name="key" value="inbook" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string not equal" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="BibTeX" />
-          <option name="key" value="incollection" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string is empty" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="BibTeX" />
-          <option name="key" value="inproceedings" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string not empty" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="BibTeX" />
-          <option name="key" value="manual" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number equal" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="BibTeX" />
-          <option name="key" value="masterthesis" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number not equal" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="BibTeX" />
-          <option name="key" value="misc" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number less" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="BibTeX" />
-          <option name="key" value="phdthesis" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number less or equal" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="BibTeX" />
-          <option name="key" value="proceedings" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number greater" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="BibTeX" />
-          <option name="key" value="techreport" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number greater or equal" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="BibTeX" />
-          <option name="key" value="unpublished" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file not empty" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file readable" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file writable" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file executable" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file equals" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file newer" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file older" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_path exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_directory exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_command exists" />
         </TemplateKey>
       </list>
     </option>

@@ -1,5 +1,6 @@
 <templateSet group="Latex">
-  <template name="\c" value="\{$END$\}" description="\{\}" toReformat="false" toShortenFQNames="true">
+  <template name="\c" value="\{$1$\}$END$" description="\{\}" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="LATEX" value="true" />
     </context>
