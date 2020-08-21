@@ -1,0 +1,10 @@
+<application>
+  <component name="GraziConfig">
+    <option name="userDisabledRules">
+      <set>
+        <option value="PUNCTUATION_PARAGRAPH_END" />
+        <option value="And" />
+      </set>
+    </option>
+  </component>
+</application>
