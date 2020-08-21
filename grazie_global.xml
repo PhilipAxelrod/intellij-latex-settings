@@ -4,6 +4,7 @@
       <set>
         <option value="PUNCTUATION_PARAGRAPH_END" />
         <option value="And" />
+        <option value="PASSIVE_VOICE" />
       </set>
     </option>
   </component>
