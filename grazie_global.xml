@@ -2,10 +2,19 @@
   <component name="GraziConfig">
     <option name="userDisabledRules">
       <set>
-        <option value="PUNCTUATION_PARAGRAPH_END" />
-        <option value="And" />
-        <option value="PASSIVE_VOICE" />
+        <option value="LanguageTool.EN.And" />
+        <option value="LanguageTool.EN.PUNCTUATION_PARAGRAPH_END" />
+        <option value="LanguageTool.EN.PASSIVE_VOICE" />
       </set>
+    </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="(" />
+          </set>
+        </option>
+      </SuppressingContext>
     </option>
   </component>
 </application>
