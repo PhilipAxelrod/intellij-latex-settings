@@ -7,14 +7,14 @@
         <option value="LanguageTool.EN.PASSIVE_VOICE" />
       </set>
     </option>
-    <option name="detectionContext">
-      <State>
-        <option name="disabled">
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
           <set>
-            <option value="SWEDISH" />
+            <option value="(" />
           </set>
         </option>
-      </State>
+      </SuppressingContext>
     </option>
   </component>
 </application>
