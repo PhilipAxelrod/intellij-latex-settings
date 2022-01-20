@@ -2,8 +2,8 @@
   <component name="GraziConfig">
     <option name="userDisabledRules">
       <set>
-        <option value="LanguageTool.EN.And" />
         <option value="LanguageTool.EN.PUNCTUATION_PARAGRAPH_END" />
+        <option value="LanguageTool.EN.And" />
         <option value="LanguageTool.EN.PASSIVE_VOICE" />
       </set>
     </option>
@@ -12,6 +12,7 @@
         <option name="suppressed">
           <set>
             <option value="(" />
+            <option value="," />
           </set>
         </option>
       </SuppressingContext>
