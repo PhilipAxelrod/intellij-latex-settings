@@ -22,4 +22,9 @@
       <option name="LATEX" value="true" />
     </context>
   </template>
+  <template name="int" value="\int_{$FROM$}^{$TO$} $END$" description="Integral with sub- and superscript" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="FROM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TO" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
