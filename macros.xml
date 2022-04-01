@@ -4,5 +4,9 @@
       <action id="EditorLineStart" />
       <action id="EditorLineEndWithSelection" />
     </macro>
+    <macro name="next line">
+      <action id="EditorLineEnd" />
+      <action id="EditorEnter" />
+    </macro>
   </component>
 </application>

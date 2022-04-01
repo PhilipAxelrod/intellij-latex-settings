@@ -76,6 +76,9 @@
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
   <action id="GotoSuperMethod" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
@@ -88,8 +91,11 @@
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
-  <action id="Macro.select line">
+  <action id="Macro.next line">
     <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="Macro.select line">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
   <action id="Maven.ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
