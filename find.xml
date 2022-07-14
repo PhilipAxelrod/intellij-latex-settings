@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'technext-interview'" />
+    <option name="defaultScopeName" value="Project 'technext-interview'" />
+    <option name="SEARCH_SCOPE" value="Project 'technext-interview'" />
   </component>
 </application>
